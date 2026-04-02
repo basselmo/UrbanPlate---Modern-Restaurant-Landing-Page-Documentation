@@ -47,4 +47,4 @@ If you have any questions or need help with customization, feel free to contact 
 
 **Enjoy your new website!**
 
-Life Demo: 
+Life Demo:  https://basselmo.github.io/UrbanPlate---Modern-Restaurant-Landing-Page-Documentation/
